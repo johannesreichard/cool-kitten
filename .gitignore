@@ -1,4 +1,9 @@
 .DS_Store
+.sass-cache/
+*.swp
+*.un~
 
 js/scripts.min.js
 css/style.min.css
+build/
+node_modules/
